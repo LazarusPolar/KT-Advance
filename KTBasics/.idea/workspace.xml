@@ -65,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Operaciones.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Operaciones.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Operaciones.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrioridadesOperacionales.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PrioridadesOperacionales.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/NullSafety.kt" />
         <option value="$PROJECT_DIR$/src/ConversionDatos.kt" />
         <option value="$PROJECT_DIR$/src/Operaciones.kt" />
+        <option value="$PROJECT_DIR$/src/PrioridadesOperacionales.kt" />
       </list>
     </option>
   </component>
@@ -108,8 +119,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="278" />
+    <option name="x" value="-37" />
+    <option name="y" value="250" />
     <option name="width" value="1280" />
     <option name="height" value="778" />
   </component>
@@ -172,19 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.OperacionesKt">
-    <configuration name="Basic1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Basic1Kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="KTBasics" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PrioridadesOperacionalesKt">
     <configuration name="DatosEntradaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="DatosEntradaKt" />
@@ -212,6 +211,18 @@
     <configuration name="OperacionesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="OperacionesKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="KTBasics" />
+      <envs />
+    </configuration>
+    <configuration name="PrioridadesOperacionalesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="PrioridadesOperacionalesKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -315,19 +326,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.Basic1Kt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.TiposDatosKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.DatosEntradaKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.TiposDatosKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.DatosEntradaKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.PrioridadesOperacionalesKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.DatosEntradaKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.TiposDatosKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.Basic1Kt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.PrioridadesOperacionalesKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.DatosEntradaKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.TiposDatosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -341,15 +352,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523247788910</updated>
-      <workItem from="1523247793455" duration="3097000" />
+      <workItem from="1523247793455" duration="3358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3097000" />
+    <option name="totallyTimeSpent" value="3358000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="278" width="1280" height="778" extended-state="0" />
+    <frame x="-37" y="250" width="1280" height="778" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -435,6 +447,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrioridadesOperacionales.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding />
         </state>
       </provider>
