@@ -8,7 +8,8 @@ fun main(args: Array<String>) {
 
     // Proceso
     var anioCalendario = Calendar.getInstance().get(Calendar.YEAR)
-    var edad = anioCalendario - anioDeNacimiento
+    var edad: Int?
+    edad = anioCalendario - anioDeNacimiento
 
     // Salida
     println("Tu edad es: $edad años")
