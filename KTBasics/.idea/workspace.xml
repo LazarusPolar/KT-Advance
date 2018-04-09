@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncrementoDecremento.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IncrementoDecremento.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IncrementoDecremento.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EncuentraEdad.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EncuentraEdad.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -60,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/Operaciones.kt" />
         <option value="$PROJECT_DIR$/src/PrioridadesOperacionales.kt" />
         <option value="$PROJECT_DIR$/src/IncrementoDecremento.kt" />
+        <option value="$PROJECT_DIR$/src/EncuentraEdad.kt" />
       </list>
     </option>
   </component>
@@ -70,8 +81,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="193" />
+    <option name="y" value="277" />
     <option name="width" value="1280" />
     <option name="height" value="778" />
   </component>
@@ -134,10 +144,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.IncrementoDecrementoKt">
-    <configuration name="DatosEntradaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.EncuentraEdadKt">
+    <configuration name="EncuentraEdadKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DatosEntradaKt" />
+      <option name="MAIN_CLASS_NAME" value="EncuentraEdadKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -277,19 +287,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.DatosEntradaKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.PrioridadesOperacionalesKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.IncrementoDecrementoKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.PrioridadesOperacionalesKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.IncrementoDecrementoKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.EncuentraEdadKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.IncrementoDecrementoKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.PrioridadesOperacionalesKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.DatosEntradaKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.EncuentraEdadKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.IncrementoDecrementoKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.PrioridadesOperacionalesKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.OperacionesKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.NullSafetyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -303,15 +313,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523247788910</updated>
-      <workItem from="1523247793455" duration="3617000" />
+      <workItem from="1523247793455" duration="3983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3617000" />
+    <option name="totallyTimeSpent" value="3983000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="193" width="1280" height="778" extended-state="0" />
+    <frame x="0" y="277" width="1280" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -414,6 +424,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EncuentraEdad.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
