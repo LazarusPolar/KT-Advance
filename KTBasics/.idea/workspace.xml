@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrioridadesOperacionales.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PrioridadesOperacionales.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IncrementoDecremento.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IncrementoDecremento.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForSimple.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ForSimple.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ForSimple.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="4" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForAnidado.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ForAnidado.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -149,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/WhenSimple.kt" />
         <option value="$PROJECT_DIR$/src/ExpresionDeDecision.kt" />
         <option value="$PROJECT_DIR$/src/ForSimple.kt" />
+        <option value="$PROJECT_DIR$/src/ForAnidado.kt" />
       </list>
     </option>
   </component>
@@ -159,7 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="345" />
+    <option name="x" value="7" />
+    <option name="y" value="322" />
     <option name="width" value="1280" />
     <option name="height" value="408" />
   </component>
@@ -222,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ForSimpleKt">
+  <component name="RunManager" selected="Kotlin.ForAnidadoKt">
     <configuration name="ExpresionDeDecisionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -231,6 +233,18 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ExpresionDeDecisionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="KTBasics" />
+      <envs />
+    </configuration>
+    <configuration name="ForAnidadoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ForAnidadoKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="KTBasics" />
       <envs />
@@ -255,18 +269,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="IfAnidadoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="KTBasics" />
-      <envs />
-    </configuration>
-    <configuration name="IfElseIfSimpleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="IfElseIfSimpleKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="KTBasics" />
       <envs />
@@ -365,19 +367,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.IfElseIfSimpleKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.IfAnidadoKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.WhenSimpleKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.ExpresionDeDecisionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.ForSimpleKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.IfAnidadoKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.WhenSimpleKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.ExpresionDeDecisionKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.ForSimpleKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.ForAnidadoKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.ForSimpleKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.ExpresionDeDecisionKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.WhenSimpleKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.IfAnidadoKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.IfElseIfSimpleKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.ForAnidadoKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.ForSimpleKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.ExpresionDeDecisionKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.WhenSimpleKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.IfAnidadoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -392,15 +394,15 @@
       <option name="presentableId" value="Default" />
       <updated>1523247788910</updated>
       <workItem from="1523247793455" duration="6450000" />
-      <workItem from="1523422266228" duration="502000" />
+      <workItem from="1523422266228" duration="607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6952000" />
+    <option name="totallyTimeSpent" value="7057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="345" width="1280" height="408" extended-state="0" />
+    <frame x="7" y="322" width="1280" height="408" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -647,7 +649,15 @@
     <entry file="file://$PROJECT_DIR$/src/ForSimple.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForAnidado.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           <folding />
         </state>
       </provider>
