@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WhenSimple.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WhenSimple.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ExpresionDeDecision.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExpresionDeDecision.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hashmap.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hashmap.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hashmap.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColeccionesKotlin.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ColeccionesKotlin.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -156,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/Cadenas.kt" />
         <option value="$PROJECT_DIR$/src/Arrays.kt" />
         <option value="$PROJECT_DIR$/src/Hashmap.kt" />
+        <option value="$PROJECT_DIR$/src/ColeccionesKotlin.kt" />
       </list>
     </option>
   </component>
@@ -166,8 +167,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-26" />
-    <option name="y" value="296" />
+    <option name="x" value="31" />
+    <option name="y" value="521" />
     <option name="width" value="1280" />
     <option name="height" value="558" />
   </component>
@@ -231,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.HashmapKt">
+  <component name="RunManager" selected="Kotlin.ColeccionesKotlinKt">
     <configuration name="ArraysKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -268,6 +269,18 @@
       <module name="KTBasics" />
       <envs />
     </configuration>
+    <configuration name="ColeccionesKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ColeccionesKotlinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="KTBasics" />
+      <envs />
+    </configuration>
     <configuration name="HashmapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -276,18 +289,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="HashmapKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="KTBasics" />
-      <envs />
-    </configuration>
-    <configuration name="WhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="WhileKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="KTBasics" />
       <envs />
@@ -374,19 +375,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.WhileKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.CicloDeControlKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.CadenasKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.CicloDeControlKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.CadenasKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.ColeccionesKotlinKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.CadenasKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.CicloDeControlKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.WhileKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.ColeccionesKotlinKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.CadenasKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.CicloDeControlKt" />
       </list>
     </recent_temporary>
   </component>
@@ -402,15 +403,15 @@
       <updated>1523247788910</updated>
       <workItem from="1523247793455" duration="6450000" />
       <workItem from="1523422266228" duration="1835000" />
-      <workItem from="1523746240400" duration="274000" />
+      <workItem from="1523746240400" duration="628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8559000" />
+    <option name="totallyTimeSpent" value="8913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-26" y="296" width="1280" height="558" extended-state="0" />
+    <frame x="31" y="521" width="1280" height="558" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -422,7 +423,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52880657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52880657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -454,14 +455,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WhenSimple.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ForSimple.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -858,6 +851,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ColeccionesKotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding />
         </state>
       </provider>
