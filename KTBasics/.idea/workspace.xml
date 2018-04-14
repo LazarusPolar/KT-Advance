@@ -25,16 +25,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForAnidado.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ForAnidado.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="While.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/While.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sets.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sets.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sets.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
               <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Funciones.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Funciones.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -158,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/Hashmap.kt" />
         <option value="$PROJECT_DIR$/src/ColeccionesKotlin.kt" />
         <option value="$PROJECT_DIR$/src/Sets.kt" />
+        <option value="$PROJECT_DIR$/src/Funciones.kt" />
       </list>
     </option>
   </component>
@@ -168,7 +169,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="277" />
+    <option name="x" value="-50" />
+    <option name="y" value="475" />
     <option name="width" value="1280" />
     <option name="height" value="558" />
   </component>
@@ -232,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.SetsKt">
+  <component name="RunManager" selected="Kotlin.FuncionesKt">
     <configuration name="ArraysKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -245,18 +247,6 @@
       <module name="KTBasics" />
       <envs />
     </configuration>
-    <configuration name="CadenasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CadenasKt" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="KTBasics" />
-      <envs />
-    </configuration>
     <configuration name="ColeccionesKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -265,6 +255,18 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ColeccionesKotlinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="KTBasics" />
+      <envs />
+    </configuration>
+    <configuration name="FuncionesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FuncionesKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="KTBasics" />
       <envs />
@@ -375,19 +377,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.CadenasKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.ColeccionesKotlinKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.SetsKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.ColeccionesKotlinKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.SetsKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.FuncionesKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.SetsKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.ColeccionesKotlinKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.CadenasKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.FuncionesKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.SetsKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.ColeccionesKotlinKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.HashmapKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.ArraysKt" />
       </list>
     </recent_temporary>
   </component>
@@ -403,15 +405,15 @@
       <updated>1523247788910</updated>
       <workItem from="1523247793455" duration="6450000" />
       <workItem from="1523422266228" duration="1835000" />
-      <workItem from="1523746240400" duration="1061000" />
+      <workItem from="1523746240400" duration="1419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9346000" />
+    <option name="totallyTimeSpent" value="9704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="277" width="1280" height="558" extended-state="0" />
+    <frame x="-50" y="475" width="1280" height="558" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -455,14 +457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ForAnidado.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/While.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -859,6 +853,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Funciones.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>
