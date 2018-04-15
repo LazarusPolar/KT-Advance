@@ -1,4 +1,7 @@
 open class Operaciones() {
+    public var nombreProceso: String? = null
+    // protected - Pueden verla en la clase y los que heredan
+    // private - Solo puede verlo la clase de origen
     fun suma(n1: Int, n2: Int): Int{
         return n1+n2
     }
@@ -19,6 +22,10 @@ class Mutltioperaciones():Operaciones() {
     fun multiplicacion(n1:Int, n2:Int): Int {
         return n1*n2
     }
+
+    fun obtieneNombre() {
+        super.nombreProceso
+    }
 }
 
 fun main(args: Array<String>) {
@@ -36,4 +43,5 @@ fun main(args: Array<String>) {
     var dividi1r = op2.dividir(1, 2)
     println("Imprime Division $dividi1r")
 
+    println("op.nombreProceso: ${op.nombreProceso}")
 }
