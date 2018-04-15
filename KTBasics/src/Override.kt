@@ -43,7 +43,8 @@ fun main(args: Array<String>) {
     var dividir = op.dividir(1, 2)
     println("Imprime Division $dividir")
 
-    var op2 = Mutltioperaciones1()
+    // Castind de valor con modificador "as Operaciones1"
+    var op2 = Mutltioperaciones1() as Operaciones1
     var suma1 = op2.suma(1,2)
     println("Imprime Suma: $suma1")
 
