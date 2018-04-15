@@ -108,8 +108,8 @@
       <file leaf-file-name="Override.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Override.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+            <state relative-caret-position="86">
+              <caret line="19" column="55" lean-forward="false" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -175,8 +175,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="225" />
+    <option name="x" value="-37" />
+    <option name="y" value="253" />
     <option name="width" value="1280" />
     <option name="height" value="558" />
   </component>
@@ -412,15 +412,15 @@
       <workItem from="1523247793455" duration="6450000" />
       <workItem from="1523422266228" duration="1835000" />
       <workItem from="1523746240400" duration="4121000" />
-      <workItem from="1523775805575" duration="1061000" />
+      <workItem from="1523775805575" duration="1247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13467000" />
+    <option name="totallyTimeSpent" value="13653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="225" width="1280" height="558" extended-state="0" />
+    <frame x="-37" y="253" width="1280" height="558" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -866,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Override.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+        <state relative-caret-position="86">
+          <caret line="19" column="55" lean-forward="false" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
           <folding />
         </state>
       </provider>

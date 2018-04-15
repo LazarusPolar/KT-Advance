@@ -15,10 +15,15 @@ open class Operaciones1() {
 
 // Herada las funciones de la clase Operaciones
 // Nota: siempre colocar open a la clase a la que se hereda ya que, sin ello, no se permitira dicha herencia
-class Mutltioperaciones1():Operaciones1() {
+class Mutltioperaciones1:Operaciones1 {
+
+    // Forma de heredar clases incluyendo "constructor"
+    constructor(): super(){}
 
     // Se sobrecarga la funcion y puede modificarse su valor de retorno
     override fun suma(n1: Int, n2: Int): Int{
+        // Super toma la funcion de la funcion padre de la que hereda
+        super.suma(n1, n2)
         return n1+n2*3
     }
 
