@@ -1,5 +1,25 @@
 // Se agrega var para obtener los valores con get
-class Carro(var tipo: String, var modelo: Int, var precio: Double, var millasConducidas:Int, var duenio:String) {
+class Carro() {
+
+    var tipo: String? = null
+    var modelo: Int? = null
+    var precio: Double? = null
+    var millasConducidas:Int? = null
+    var duenio:String? = null
+
+    //Se puede tener mas de un constructor para llamar a la clase e inicializar valores 
+    constructor(tipo: String, modelo: Int, precio: Double, millasConducidas:Int, duenio:String):this(){
+        this.tipo = tipo
+        this.modelo = modelo
+        this.precio = precio
+        this.millasConducidas = millasConducidas
+        this.duenio = duenio
+    }
+
+    constructor(duenio: String):this(){
+        this.duenio = duenio
+        println("Constructor dueño: $duenio")
+    }
 
     // Corre automaticamente cuando se inicializa la clase
     init {
@@ -11,7 +31,7 @@ class Carro(var tipo: String, var modelo: Int, var precio: Double, var millasCon
     }
 
     fun obtenerPrecio(): Double {
-        return this.precio - (this.millasConducidas.toDouble() * 10)
+        return this.precio!! - (this.millasConducidas!!.toDouble() * 10)
     }
 
 
@@ -22,4 +42,6 @@ fun main(args: Array<String>) {
     println("Precio de automovil ${carro.obtenerPrecio()}")
 
     val carro2 = Carro("Nissan", 23, 1232.2, 213, "Lucia")
+
+    val carro3 = Carro("Roberto")
 }
