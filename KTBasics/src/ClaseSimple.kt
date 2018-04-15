@@ -7,7 +7,7 @@ class Carro() {
     var millasConducidas:Int? = null
     var duenio:String? = null
 
-    //Se puede tener mas de un constructor para llamar a la clase e inicializar valores 
+    //Se puede tener mas de un constructor para llamar a la clase e inicializar valores
     constructor(tipo: String, modelo: Int, precio: Double, millasConducidas:Int, duenio:String):this(){
         this.tipo = tipo
         this.modelo = modelo
